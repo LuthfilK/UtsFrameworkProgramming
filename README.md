@@ -1,3 +1,9 @@
+Demo Aplikasi : https://luthfilkhakim.herokuapp.com/
+Penjelasan Tulis Tangan : https://drive.google.com/file/d/1OODSG8ZrRunV9ZKoH_TL3i0Rl3SUwHU0/view?usp=sharing
+
+
+
+###########################################################################################################################################################################
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
